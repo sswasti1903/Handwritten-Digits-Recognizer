@@ -2,7 +2,9 @@
 A repository to recognize handwritten digits' images in low resolution.
 
 Digits dataset consists of low-resolution images of handwritten digits, which may be difficult for the human eye to read, to implement in a neural network.
-![Digits](sample.png)
 
-The following subplot shows the loss_curve_ of MLPCalssifier used.
+![Digits](sample.png){width= 300px}
+
+The following subplot shows the loss_curve_ of the MLPCalssifier used, reaching an accuracy score of 0.944792973651192.
+
 ![Graph](loss_curve_.png)
